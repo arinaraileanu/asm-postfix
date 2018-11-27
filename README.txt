@@ -1,9 +1,3 @@
-Nume, prenume: Raileanu Ana Arina
-Grupa: 324CA
-<raileanu.arina1@gmail.com>
-
-			Tema 1 - Postfix
-			
 La operatiile in forma postfixata ecuatiile sunt de forma: A B O
 de unde deducem faptul ca la fiecare intalnire a unui operator trebuie sa
 calculam rezultatul operatiei cu termenii A si B si operatorul O.
